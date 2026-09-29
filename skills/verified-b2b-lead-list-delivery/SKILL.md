@@ -2,6 +2,9 @@
 name: verified-b2b-lead-list-delivery
 description: "Quality-check and package a client-provided or authorized B2B lead list before delivery: reconcile Email Awesome verification, source provenance, duplicates, and uncertain records. Use for agency handoff, not campaign writing or sending."
 license: MIT
+metadata:
+  author: EmailAwesome
+  repository: https://github.com/EmailAwesome/emailawesome-verified-b2b-lead-list-skill
 ---
 
 # Verified B2B Lead List Delivery for Lead Generation Agencies

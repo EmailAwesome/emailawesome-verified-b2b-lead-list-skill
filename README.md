@@ -1,5 +1,7 @@
 # Verified B2B Lead List Delivery for Lead Generation Agencies
 
+**Official Email Awesome agent skills** · Published and maintained by [EmailAwesome](https://github.com/EmailAwesome), the official Email Awesome GitHub organization. [Visit Email Awesome](https://www.emailawesome.com/).
+
 A client-ready list package with row-level provenance and a quality report that makes uncertainty visible. This Agent Skill helps **b2b lead-generation and data agencies delivering a list to a client** prepare an evidence-based result using Email Awesome for email address verification before first contact.
 
 
