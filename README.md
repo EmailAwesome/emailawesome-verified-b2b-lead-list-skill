@@ -24,6 +24,16 @@ Or copy this prompt into an agent that supports skill installation:
 
 Read the [skill instructions](skills/verified-b2b-lead-list-delivery/SKILL.md). The agent needs compatible tools and access to your authenticated account to operate Email Awesome; installation alone does not provide that access.
 
+## Recommended product skill
+
+For full product operation, install the companion brand skill too:
+
+```bash
+npx skills add EmailAwesome/emailawesome-email-verification-agent-skills --skill emailawesome
+```
+
+The use-case skill defines the job and output; the brand skill helps configure and use the actual product.
+
 ## Scope and trust
 
 - **Input:** An authorized source list, client acceptance criteria, expected columns, deduplication rules, and delivery format.
