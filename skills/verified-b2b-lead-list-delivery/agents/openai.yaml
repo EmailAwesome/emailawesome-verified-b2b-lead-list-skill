@@ -1,0 +1,4 @@
+interface:
+  display_name: "Verified B2B Lead List Delivery for Lead Generation Agencies"
+  short_description: "Prepare evidence-based outputs for this workflow"
+  default_prompt: "Use $verified-b2b-lead-list-delivery to prepare my authorized workflow and explain the product steps."
